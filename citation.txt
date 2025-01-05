@@ -1,0 +1,8 @@
+@inproceedings{REPO318,
+    author = "Im, Jinbae and Nam, JeongYeon and Park, Nokyung and Lee, Hyungmin and Park, Seunghyun",
+    booktitle = "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+    month = "June",
+    pages = "24229-24238",
+    title = "{EGTR: Extracting Graph from Transformer for Scene Graph Generation}",
+    year = "2024"
+}
